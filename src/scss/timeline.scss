@@ -247,7 +247,7 @@
         top: 50%;
         width: 8px;
     }
-    &--prev {
+    /*&--prev {
         left: 0;
         &::before {
             background-image: url('../images/arrow-left.svg');
@@ -258,7 +258,7 @@
         &::before {
             background-image: url('../images/arrow-right.svg');
         }
-    }
+    }*/
 }
 
 .timeline--mobile {
